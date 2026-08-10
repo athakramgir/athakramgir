@@ -1,6 +1,6 @@
 # Hi, I'm Athak 👋
 
-### Computer Science & Engineering Student | Aspiring Software Engineer
+### Computer Science & Engineering Student @MANIT | Aspiring Software Engineer
 
 I'm a Computer Science student at **MANIT** interested in software engineering, problem solving, and building full-stack applications.
 
