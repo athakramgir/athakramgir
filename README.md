@@ -19,7 +19,7 @@ Currently focused on:
 C++ · JavaScript
 
 **Frontend:**  
-HTML · CSS · React
+HTML · CSS · React.js
 
 **Backend:**  
 Node.js · Express.js
